@@ -15,5 +15,5 @@ As an outcome of the study and synthesis of the personalized and modular design 
 Thus, children have free access to a myoelectric hand prosthesis that can be customized to suit their evolving growth patterns and personal preferences.
 Furthermore, thanks to their modularity, the prosthesis's modules can be interchanged and used with other prostheses, such as controlling a specific-activity prosthesis while using our proposed prosthesis interface.
 
-![image](https://github.com/AILab-UniversityofTsukuba/Tsukuba-Open-Source-Hand-Prosthesis/assets/155613164/6707168b-2d95-440d-9ff4-2dc7bc5124bc)
+  ![image](https://github.com/AILab-UniversityofTsukuba/Tsukuba-Open-Source-Hand-Prosthesis/assets/155613164/6707168b-2d95-440d-9ff4-2dc7bc5124bc)
 
